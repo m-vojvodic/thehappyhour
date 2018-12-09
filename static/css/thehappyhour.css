@@ -21,7 +21,14 @@ body {
     width: 270px;
 }
 
+.img-konnichiwa {
+    position: absolute;
+    top: 50px;
+    left: 60px;
+}
+
 .img-rally {
+    position: absolute;
     height: 480px;
     width: 270px;
 }
